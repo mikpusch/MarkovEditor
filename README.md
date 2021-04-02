@@ -3,7 +3,7 @@ Simulation of Markov Models of ion channels and transporters
 
 This program is described in detail in the following publication:
 
-Zifarelli, Zuccolini, Bertelle & Pusch. 2021. The Joy of Markov Models—Channel Gating and Transport Cycling Made Easy. The Biophysicist
+Zifarelli, Zuccolini, Bertelli & Pusch. 2021. The Joy of Markov Models: Channel Gating and Transport Cycling Made Easy. The Biophysicist
 https://doi.org/10.35459/tbp.2019.000125
 
 The abstract is pasted below:
